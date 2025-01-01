@@ -266,6 +266,7 @@ button:hover .text-container {
 }
 
 button:hover .snowflaked {
+ transition: all 0.8s ease;
   color: #87ceeb;
   font-size: 2.5em;
   font-family: Arial;
@@ -314,6 +315,7 @@ button:hover .snowflaked {
   }
 }
 .snowflaked {
+  transition: all 0.8s ease;
   position: fixed;
   top: -10%;
   z-index: 9999;
