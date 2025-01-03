@@ -33,7 +33,7 @@ button {
 }
 
 body {
-  background: linear-gradient(250deg, var(--blue), var(--red));;
+  background: linear-gradient(250deg, var(--red), var(--blue));;
   display: flex;
   justify-content: center;
   align-items: center;
